@@ -2,10 +2,10 @@
 
 Aumente a produtividade no seu ambiente de desenvolvimento com as dicas, artigos e ferramentas abaixo.
 
-## Livros
-
 ## Videos
 
-## Suporte
-
 ## Artigos
+
+## Dicas Rápidas
+
+
