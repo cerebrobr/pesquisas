@@ -1,9 +1,9 @@
-# Static Generators
+# Geradores Estáticos
 
-## Livros
+O futuro da web para desenvolvimento de sites, está aqui.
 
 ## Videos
 
-## Suporte
-
 ## Artigos
+
+## Dicas Rápidas
