@@ -1,9 +1,7 @@
 # Frameworks
 
-## Livros
+## Leia
 
-## Videos
+## Assista
 
-## Suporte
-
-## Artigos
+## Participe

@@ -1,13 +1,16 @@
 # Tópicos
 
+* [Web Standards](standards-performance.md)
 * [Responsive Web Design](responsive-web-design.md)
 * [Mobile First](mobile-first.md)
 * [Design on the Browser](design-on-the-browser.md)
 * [Pré-processadores](pre-processors.md)
 * [Frameworks](frameworks.md)
-* [Workflow](worfklow.md)
+* [Smart Workflow: Por um ambiente de desenvolvimento mais produtividade e inteligente](worfklow.md)
 * [Git e GitHub](git-github.md)
 * [Geradores Estáticos](static-generators.md)
+* [Api's](apis.md)
+* [Single Page App](single-page-app.md)
 
 
 ## Bem vindo! ##
@@ -27,7 +30,7 @@ Assim, surge o projeto ***Coffee and Code***, que vem a ser um espaço colaborat
 
 ## Sobre ##
 
-Tópicos com temas importantes e atuais sobre Desenvolvimento Web.
+Neste espaço você encontrará alguns dos temas mais discutidos atualmente na área de Desenvolvimento Web. São diversas dicas, vídeos, artigos, ferramentas e muito mais utilidades a sua disposição.
 
 ***Confira também, o repositório [Dev List](https://github.com/vitorbritto/dev-list)***
 
@@ -36,5 +39,4 @@ Tópicos com temas importantes e atuais sobre Desenvolvimento Web.
 
 * Esta lista está no seu estágio inicial. Os conteúdos estão sendo atualizados gradativamente. Sinta-se a vontade para enviar um *pull request*, se você possui links / recursos a serem adicionados.
 * Os artigos serão sempre verificados a fim de garantir uma informação sólida e real.
-* Se você possui alguma idéia para uma melhor forma de organizar as categorias, por favor me avise, deixando um comentário na *Issue* "Sugestões - Categorias".
 * Apesar de termos um repositório baseado no Português (Brasil), muito dos conteúdos publicados estão em Inglês. Por isso, aconselho fortemente que, caso não tenha domínio na língua estrangeira acima, procure um curso para dominá-la. Na profissão de TI/Programação/Web, ela é indispensável.

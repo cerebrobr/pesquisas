@@ -1,9 +1,7 @@
 # Pré-processadores
 
-## Livros
+## Leia
 
-## Videos
+## Assista
 
-## Suporte
-
-## Artigos
+## Participe

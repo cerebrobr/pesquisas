@@ -1,8 +1,13 @@
-# Ambiente de Desenvolvimento
+# Smart Workflow: Por um ambiente de desenvolvimento produtivo e inteligente
 
-Aumente a produtividade no seu ambiente de desenvolvimento com as dicas, artigos e ferramentas abaixo.
+Estamos sempre em busca de novos recursos, ferramentas e técnicas capazes de nos ajudar no desenvolvimento de um projeto. A busca por estes elementos facilitadores não é ruim, muito pelo contrário. Isso porque, nos livramos das tarefas tediosas e conseguimos manter o foco somente no código. E isso é o que nos importa.
 
-#Ferramentas
+Muitas foram as ferramentas e atalhos que surgiram de uns tempos para cá, dentre elas: pré-processadores, gerenciadores de tarefas, editores, frameworks, boilerplates e etc.
+
+Na irei prolongar muito esta conversa, apenas quero deixar claro que um ambiente de desenvolvimento inteligente, é aquele onde o desenvolvedor mantém o foco no seu código, observando sempre as boas práticas e padrões de semântica. As tarefas tediosas? Deixamos por conta dessas ferramentas sensacionais que vocês conhecerão agora. =]
+
+
+## Conheça
 Bower
 Grunt
 Yeoman
@@ -19,11 +24,9 @@ Pocket
 VirtualBox
 SequelPRO
 
-## Videos
+## Leia
+
+## Assista
 * [Paul Irish on Web Application Development Workflow](http://www.youtube.com/watch?v=vDbbz-BdyYc)
 
-## Artigos
-
-## Dicas Rápidas
-
-
+## Participe

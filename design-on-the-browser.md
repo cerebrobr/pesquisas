@@ -1,7 +1,7 @@
 # Design on the Browser
 
-## Videos
+## Leia
 
-## Suporte
+## Assista
 
-## Artigos
+## Participe

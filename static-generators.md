@@ -2,8 +2,8 @@
 
 O futuro da web para desenvolvimento de sites, está aqui.
 
-## Videos
+## Leia
 
-## Artigos
+## Assista
 
-## Dicas Rápidas
+## Participe

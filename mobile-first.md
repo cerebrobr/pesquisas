@@ -1,9 +1,7 @@
 # Mobile First
 
-## Livros
+## Leia
 
-## Videos
+## Assista
 
-## Suporte
-
-## Artigos
+## Participe

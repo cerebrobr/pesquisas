@@ -7,10 +7,8 @@ Esta interface é o conjunto de padrões de programação que permite a constru�
 
 > *Fonte: http://pt.wikipedia.org/wiki/API*
 
-## Livros
+## Leia
 
-## Videos
+## Assista
 
-## Suporte
-
-## Artigos
+## Participe
