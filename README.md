@@ -6,7 +6,7 @@
 * [Design on the Browser](design-on-the-browser.md)
 * [Pré-processadores](pre-processors.md)
 * [Frameworks](frameworks.md)
-* [Smart Workflow: Por um ambiente de desenvolvimento mais produtividade e inteligente](worfklow.md)
+* [Smart Workflow](worfklow.md)
 * [Git e GitHub](git-github.md)
 * [Geradores Estáticos](static-generators.md)
 * [Api's](apis.md)
