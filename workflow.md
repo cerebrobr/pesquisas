@@ -7,24 +7,8 @@ Muitas foram as ferramentas e atalhos que surgiram de uns tempos para cá, dentr
 Na irei prolongar muito esta conversa, apenas quero deixar claro que um ambiente de desenvolvimento inteligente, é aquele onde o desenvolvedor mantém o foco no seu código, observando sempre as boas práticas e padrões de semântica. As tarefas tediosas? Deixamos por conta dessas ferramentas sensacionais que vocês conhecerão agora. =]
 
 
-## Conheça
-Bower
-Grunt
-Yeoman
-Middleman
-Sublime Text 2
-Brackets
-Adobe Reflow
-Adobe Inspect
-Adobe Animate
-Trello
-SourceTree
-Mou
-Pocket
-VirtualBox
-SequelPRO
-
 ## Leia
+* [A Modern Web Designer's Workflow](https://speakerdeck.com/chriscoyier/a-modern-web-designers-workflow)
 
 ## Assista
 * [Paul Irish on Web Application Development Workflow](http://www.youtube.com/watch?v=vDbbz-BdyYc)

@@ -8,6 +8,7 @@ Esta interface é o conjunto de padrões de programação que permite a constru�
 > *Fonte: http://pt.wikipedia.org/wiki/API*
 
 ## Leia
+* [Testing APIs](https://speakerdeck.com/rlmflores/testing-apis-guru-sp)
 
 ## Assista
 
