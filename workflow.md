@@ -12,5 +12,6 @@ Na irei prolongar muito esta conversa, apenas quero deixar claro que um ambiente
 
 ## Assista
 * [Paul Irish on Web Application Development Workflow](http://www.youtube.com/watch?v=vDbbz-BdyYc)
+* [Rapid Prototyping with Sass, Compass and Middleman by Bermon Painter](http://www.youtube.com/watch?v=HbR3weaOpBs)
 
 ## Participe

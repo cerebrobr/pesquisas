@@ -30,7 +30,7 @@ Assim, surge o projeto ***Coffee and Code***, que vem a ser um espaço colaborat
 
 ## Sobre ##
 
-Neste espaço você encontrará alguns dos temas mais discutidos atualmente na área de Desenvolvimento Web. São diversas dicas, vídeos, artigos, ferramentas e muito mais utilidades a sua disposição.
+Neste espaço você encontrará alguns dos temas mais discutidos atualmente na área de Desenvolvimento Web. São diversas dicas, vídeos, artigos, ferramentas e diversas utilidades à sua disposição.
 
 ***Confira também, o repositório [Dev List](https://github.com/vitorbritto/dev-list)***
 
