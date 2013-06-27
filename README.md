@@ -10,7 +10,7 @@
 * [Fluxo de trabalho inteligente](worfklow.md) - *Workflow*
 * [Repositório nosso de cada dia](git-github.md) - *Git e GitHub*
 * [A nova geração de Frameworks](static-generators.md) - *Geradores Estáticos*
-* [Conte-me mais...](apis.md) - **Api's**
+* [Conte-me mais...](apis.md) - *Api's*
 * [Um por todos, e todos por um!](single-page-app.md) - *Single Page App*
 * [JavaScript - Ao Infinito e Além!](javascript-and-beyond.md) - *JavaScript*
 * [Minha pedra preciosa](ruby-rails.md) - *Ruby*
