@@ -1,4 +1,6 @@
-# Web Standards: Boas Práticas e Performance para o seu código
+# Em busca do projeto perfeito
+
+> Boas Práticas e Performance para o seu código
 
 ## Leia
 * [Como perder peso (no browser)](http://browserdiet.com/pt/)

@@ -1,17 +1,19 @@
 # Tópicos
 
-* [Web Standards](standards-performance.md)
-* [Responsive Web Design](responsive-web-design.md)
-* [Mobile First](mobile-first.md)
-* [Design on the Browser](design-on-the-browser.md)
-* [Pré-processadores](pre-processors.md)
-* [Frameworks](frameworks.md)
-* [Smart Workflow](worfklow.md)
-* [Git e GitHub](git-github.md)
-* [Geradores Estáticos](static-generators.md)
-* [Api's](apis.md)
-* [Single Page App](single-page-app.md)
-
+* [Em busca do projeto perfeito](standards-performance.md) - **Tópicos sobre Web Standards e Performance**
+* [O futuro é Responsivo](responsive-web-design.md) - **Tópicos sobre Responsive Web Design**
+* [Desenvolvimento Mobile](mobile-dev.md) - **Tópicos sobre Desenvolvimento Mobile**
+* [Aplicativos para a Web](web-app.md) - **Tópicos sobre Aplicativos para a Web**
+* [PhotoBrowser](design-in-the-browser.md) - **Tópicos sobre Design in the Browser**
+* [Diversão garantida com CSS](pre-processors.md) - **Tópicos sobre Pré-processadores**
+* [A Força é grande neste](frameworks.md) - **Tópicos sobre Frameworks**
+* [Fluxo de trabalho inteligente](worfklow.md) - **Tópicos sobre Workflow**
+* [Repositório nosso de cada dia](git-github.md) - **Tópicos sobre Git e GitHub**
+* [A nova geração de Frameworks](static-generators.md) - **Tópicos sobre Geradores Estáticos**
+* [Conte-me mais...](apis.md) - **Tópicos sobre Api's**
+* [Um por todos, e todos por um!](single-page-app.md) - **Tópicos sobre Single Page App**
+* [JavaScript - Ao Infinito e Além!](javascript-and-beyond.md) - **Tópicos sobre o poder do JavaScript**
+* [Minha pedra preciosa](ruby-rails.md) - **Tópicos sobre o poder do Ruby**
 
 ## Bem vindo! ##
 
@@ -25,12 +27,12 @@ Então, parei um minuto para refletir (mentira, foram dias… hehehe) e cheguei 
 
 Assim, surge o projeto ***Coffee and Code***, que vem a ser um espaço colaborativo e de aprendizado para todos nós, desenvolvedores web.
 
-***Prepare o seu café, e bons estudos! =D***
+***Prepare o seu café e bons estudos! =D***
 
 
 ## Sobre ##
 
-Neste espaço você encontrará alguns dos temas mais discutidos atualmente na área de Desenvolvimento Web. São diversas dicas, vídeos, artigos, ferramentas e diversas utilidades à sua disposição.
+Neste espaço você encontrará alguns dos temas mais discutidos atualmente na área de Desenvolvimento Web. São diversas dicas, vídeos, artigos, ferramentas e algumas utilidades à sua disposição.
 
 ***Confira também, o repositório [Dev List](https://github.com/vitorbritto/dev-list)***
 
