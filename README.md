@@ -1,19 +1,19 @@
 # Tópicos
 
-* [Em busca do projeto perfeito](standards-performance.md) - **Tópicos sobre Web Standards e Performance**
-* [O futuro é Responsivo](responsive-web-design.md) - **Tópicos sobre Responsive Web Design**
-* [Desenvolvimento Mobile](mobile-dev.md) - **Tópicos sobre Desenvolvimento Mobile**
-* [Aplicativos para a Web](web-app.md) - **Tópicos sobre Aplicativos para a Web**
-* [PhotoBrowser](design-in-the-browser.md) - **Tópicos sobre Design in the Browser**
-* [Diversão garantida com CSS](pre-processors.md) - **Tópicos sobre Pré-processadores**
-* [A Força é grande neste](frameworks.md) - **Tópicos sobre Frameworks**
-* [Fluxo de trabalho inteligente](worfklow.md) - **Tópicos sobre Workflow**
-* [Repositório nosso de cada dia](git-github.md) - **Tópicos sobre Git e GitHub**
-* [A nova geração de Frameworks](static-generators.md) - **Tópicos sobre Geradores Estáticos**
-* [Conte-me mais...](apis.md) - **Tópicos sobre Api's**
-* [Um por todos, e todos por um!](single-page-app.md) - **Tópicos sobre Single Page App**
-* [JavaScript - Ao Infinito e Além!](javascript-and-beyond.md) - **Tópicos sobre o poder do JavaScript**
-* [Minha pedra preciosa](ruby-rails.md) - **Tópicos sobre o poder do Ruby**
+* [Em busca do projeto perfeito](standards-performance.md) - *Web Standards e Performance*
+* [O futuro é Responsivo](responsive-web-design.md) - *Responsive Web Design*
+* [Desenvolvimento Mobile](mobile-dev.md) - *Desenvolvimento Mobile*
+* [Aplicativos para a Web](web-app.md) - *Aplicativos para a Web*
+* [PhotoBrowser](design-in-the-browser.md) - *Design in the Browser*
+* [Diversão garantida com CSS](pre-processors.md) - *Pré-processadores*
+* [A Força é grande neste](frameworks.md) - *Frameworks*
+* [Fluxo de trabalho inteligente](worfklow.md) - *Workflow*
+* [Repositório nosso de cada dia](git-github.md) - *Git e GitHub*
+* [A nova geração de Frameworks](static-generators.md) - *Geradores Estáticos*
+* [Conte-me mais...](apis.md) - **Api's**
+* [Um por todos, e todos por um!](single-page-app.md) - *Single Page App*
+* [JavaScript - Ao Infinito e Além!](javascript-and-beyond.md) - *JavaScript*
+* [Minha pedra preciosa](ruby-rails.md) - *Ruby*
 
 ## Bem vindo! ##
 
