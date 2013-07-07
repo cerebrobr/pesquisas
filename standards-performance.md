@@ -5,6 +5,8 @@
 ## Leia
 * [Como perder peso (no browser)](http://browserdiet.com/pt/)
 * [Padrões de código & melhores práticas em Front-end](http://andrecomws.com/lab/code-standards/)
+* [Como se manter atulizado nas técnologias Front-end](http://uptodate.frontendrescue.org/pt/)
+* [A Good User Interface](http://goodui.org/)
 * [Building Faster Websites](http://www.igvita.com/slides/2012/webperf-crash-course.pdf)
 * [Let's Do A Bunch of Simple Stuff to Make Websites Faster](https://speakerdeck.com/chriscoyier/lets-do-a-bunch-of-simple-stuff-to-make-websites-faster)
 * [Keith and Marios Guide to Fast Websites](https://speakerdeck.com/keithpitt/keith-and-marios-guide-to-fast-websites)

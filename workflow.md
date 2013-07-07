@@ -11,6 +11,7 @@ Na irei prolongar muito esta conversa, apenas quero deixar claro que um ambiente
 * [A Modern Web Designer's Workflow](https://speakerdeck.com/chriscoyier/a-modern-web-designers-workflow)
 * [Developing With Sass and Chrome DevTools](http://net.tutsplus.com/tutorials/html-css-techniques/developing-with-sass-and-chrome-devtools/)
 * [The Perfect Workflow, with Git, GitHub, and SSH](http://net.tutsplus.com/tutorials/other/the-perfect-workflow-with-git-github-and-ssh/)
+*[Front-end Process - Flat Builds and Automation](http://www.gpmd.co.uk/blog/front-end-process-flat-builds-and-automation-part-1-introduction/)
 
 ## Assista
 * [Paul Irish on Web Application Development Workflow](http://www.youtube.com/watch?v=vDbbz-BdyYc)
