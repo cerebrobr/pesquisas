@@ -9,6 +9,7 @@
 - [Designing in the Browser – An Interview with Brad Frost](http://blog.teamtreehouse.com/designing-in-the-browser-an-interview-with-brad-frost)
 - [Tips for Designing in the Browser](http://webdesign.tutsplus.com/articles/workflow/tips-for-designing-in-the-browser/)
 - [What does designing in the browser mean?](https://medium.com/design-ux/3ccb1dfad980)
+- [Make Your Mockup in Markup](http://24ways.org/2009/make-your-mockup-in-markup/)
 
 ## Assista
 
