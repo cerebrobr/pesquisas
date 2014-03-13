@@ -1,4 +1,4 @@
-# O futuro é Responsivo
+# Responsive Web Design
 
 > Tópicos interessantes sobre Responsive Web Design
 

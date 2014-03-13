@@ -1,4 +1,4 @@
-# Em busca do projeto perfeito
+# Padrões de Projeto e Boas práticas
 
 > Boas Práticas e Performance para o seu código
 

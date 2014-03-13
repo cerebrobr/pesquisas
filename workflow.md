@@ -1,4 +1,4 @@
-# Smart Workflow: Por um ambiente de desenvolvimento produtivo e inteligente
+# Modern Workflow
 
 Estamos sempre em busca de novos recursos, ferramentas e técnicas capazes de nos ajudar no desenvolvimento de um projeto. A busca por estes elementos facilitadores não é ruim, muito pelo contrário. Isso porque, nos livramos das tarefas tediosas e conseguimos manter o foco somente no código. E isso é o que nos importa.
 
